@@ -1,4 +1,5 @@
-# Lipa na Mpesa Online
+# Lipa na Mpesa Online using Node Js and Express.
+
 1.Visit: [Safaricom Developer Portal](https://developer.safaricom.co.ke/home)
 
 2. Create app:
@@ -70,4 +71,4 @@
 
 5. Making an **STK push** Request.
 
-6. Getting Callback
+6. Getting Callback.
