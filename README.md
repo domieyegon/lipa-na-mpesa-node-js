@@ -12,7 +12,7 @@
 
 3. Configuring the Application:
     - Implementation of REST API using a preferred language (We will use Express.js).
-    - To handle comunication to and from Daraja API we will use Axios.
+    - To handle comunication to and from Daraja API we will use **Axios**.
         + Axios is Promise based HTTP client for the browser and node.js
     ```
         > npm i axios
@@ -67,3 +67,7 @@
 
 4. Getting an OAuth token.
     - To make every call to the Daraja API, we need to always supply an OAuth token. 
+
+5. Making an **STK push** Request.
+
+6. Getting Callback
