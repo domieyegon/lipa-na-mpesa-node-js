@@ -22,34 +22,32 @@
     ```
         > npm init
     ```
-        +++++++++++++++++
-        OutPut:
-        ```
-            package name: (lipa_na_mpesa) 
-            version: (1.0.0) 
-            description: Node JS app with Expess js for Lipa Na MPesa Online
-            entry point: (index.js) 
-            test command: nodemon index.js
-            git repository: 
-            keywords: 
-            author: Dominic Yegon
-            license: (ISC) 
-            About to write to /home/meliora/Academy/Domie/JS/lipa_na_mpesa/package.json:
-
-            {
-              "name": "lipa_na_mpesa",
-              "version": "1.0.0",
-              "description": "Node JS app with Expess js for Lipa Na MPesa Online",
-              "main": "index.js",
-              "scripts": {
-                "test": "nodemon index.js"
-              },
-              "author": "Dominic Yegon",
-              "license": "ISC"
-            }  
-            Is this OK? (yes)
-        ```
-        +++++++++++++++++++++
+        
+    OutPut:
+    ```
+        package name: (lipa_na_mpesa) 
+        version: (1.0.0) 
+        description: Node JS app with Expess js for Lipa Na MPesa Online
+        entry point: (index.js) 
+        test command: nodemon index.js
+        git repository: 
+        keywords: 
+        author: Dominic Yegon
+        license: (ISC) 
+        About to write to /home/meliora/Academy/Domie/JS/lipa_na_mpesa/package.json:
+        {
+          "name": "lipa_na_mpesa",
+          "version": "1.0.0",
+          "description": "Node JS app with Expess js for Lipa Na MPesa Online",
+          "main": "index.js",
+          "scripts": {
+            "test": "nodemon index.js"
+          },
+          "author": "Dominic Yegon",
+          "license": "ISC"
+        }  
+        Is this OK? (yes)
+    ```
 
     - Install Express js and Axios
     ```
