@@ -1,5 +1,5 @@
 # Lipa na Mpesa Online
-1.Visit: [Safaricom Developer Portal] (https://developer.safaricom.co.ke/home)
+1.Visit: [Safaricom Developer Portal](https://developer.safaricom.co.ke/home)
 
 2. Create app:
     - Give it a name : e.g. Test App.
